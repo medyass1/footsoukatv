@@ -1,1 +1,42 @@
-https://raw.githubusercontent.com/medyass1/testdown/main/down.json
+{"ads":{
+
+ "ShowAds":false,
+    "ShowLoadingAds":false,
+    "ClickCount":1,
+    "PriorityBanner":"admob",
+    "priorityInterstitial":"admob",
+    "PriorityNative":"admob",
+    "PriorityReward":"admob",
+    "IronAppKey":"",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+    "IronReward":"DefaultReward",
+    "MaxBanner":"xxxxxxxx",
+    "MaxInterstitial":"xxxxxxxx",
+    "MaxNative":"",
+    "MaxReward":"",
+    "FanBanner":"",
+    "FanInterstitial":"",
+    "FanNative":"",
+    "AdmobBanner":"",
+    "AdmobInterstitial":"",
+    "AdmobNative":"",
+    "admob_reward":""
+  },
+  "ControlApp":{
+ "PlayerPackageName": "",
+ "app_redirect":"no",
+"redirect_package_name":""
+    
+    }
+
+
+ 
+
+
+  
+ 
+  
+
+
+}
